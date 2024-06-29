@@ -10,18 +10,12 @@ pkg install python
 
 ```
 pkg install python-pip
-
-```
 pkg install git
 
 ```
 git clone https://github.com/saifulabidin/Start-Otp
-
-```
 cd Start-Otp
 
 ```
 pip install -r requirements.txt
-
-```
 python run.py
